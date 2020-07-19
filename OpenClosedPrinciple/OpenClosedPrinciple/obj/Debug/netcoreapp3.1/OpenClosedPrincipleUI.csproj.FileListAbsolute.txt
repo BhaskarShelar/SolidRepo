@@ -1,0 +1,32 @@
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrincipleUI.exe
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrincipleUI.deps.json
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrincipleUI.runtimeconfig.json
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrincipleUI.runtimeconfig.dev.json
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrincipleUI.dll
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrincipleUI.pdb
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedLibrary.dll
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedLibrary.pdb
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrincipleUI.csprojAssemblyReference.cache
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrincipleUI.AssemblyInfoInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrincipleUI.AssemblyInfo.cs
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrincipleUI.csproj.CoreCompileInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrincipleUI.csproj.CopyComplete
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrincipleUI.dll
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrincipleUI.pdb
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrincipleUI.genruntimeconfig.cache
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrincipleUI.exe
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrincipleUI.deps.json
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrincipleUI.runtimeconfig.json
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrincipleUI.runtimeconfig.dev.json
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrincipleUI.dll
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrincipleUI.pdb
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedLibrary.dll
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedLibrary.pdb
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrincipleUI.csprojAssemblyReference.cache
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrincipleUI.AssemblyInfoInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrincipleUI.AssemblyInfo.cs
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrincipleUI.csproj.CoreCompileInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrincipleUI.csproj.CopyComplete
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrincipleUI.dll
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrincipleUI.pdb
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrincipleUI.genruntimeconfig.cache

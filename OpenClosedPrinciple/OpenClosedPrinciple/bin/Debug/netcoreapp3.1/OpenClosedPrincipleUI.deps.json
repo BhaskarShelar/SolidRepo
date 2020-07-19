@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OpenClosedPrincipleUI/1.0.0": {
+        "dependencies": {
+          "OpenClosedLibrary": "1.0.0"
+        },
+        "runtime": {
+          "OpenClosedPrincipleUI.dll": {}
+        }
+      },
+      "OpenClosedLibrary/1.0.0": {
+        "runtime": {
+          "OpenClosedLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OpenClosedPrincipleUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OpenClosedLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

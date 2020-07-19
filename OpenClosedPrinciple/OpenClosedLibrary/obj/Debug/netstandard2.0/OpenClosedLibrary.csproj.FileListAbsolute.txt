@@ -1,0 +1,18 @@
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedLibrary\bin\Debug\netstandard2.0\OpenClosedLibrary.deps.json
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedLibrary\bin\Debug\netstandard2.0\OpenClosedLibrary.dll
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedLibrary\bin\Debug\netstandard2.0\OpenClosedLibrary.pdb
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedLibrary\obj\Debug\netstandard2.0\OpenClosedLibrary.csprojAssemblyReference.cache
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedLibrary\obj\Debug\netstandard2.0\OpenClosedLibrary.AssemblyInfoInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedLibrary\obj\Debug\netstandard2.0\OpenClosedLibrary.AssemblyInfo.cs
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedLibrary\obj\Debug\netstandard2.0\OpenClosedLibrary.csproj.CoreCompileInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedLibrary\obj\Debug\netstandard2.0\OpenClosedLibrary.dll
+D:\Bhaskar shelar\SOLID Pricinple\OpenClosedPrinciple\OpenClosedLibrary\obj\Debug\netstandard2.0\OpenClosedLibrary.pdb
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedLibrary\bin\Debug\netstandard2.0\OpenClosedLibrary.deps.json
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedLibrary\bin\Debug\netstandard2.0\OpenClosedLibrary.dll
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedLibrary\bin\Debug\netstandard2.0\OpenClosedLibrary.pdb
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedLibrary\obj\Debug\netstandard2.0\OpenClosedLibrary.csprojAssemblyReference.cache
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedLibrary\obj\Debug\netstandard2.0\OpenClosedLibrary.AssemblyInfoInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedLibrary\obj\Debug\netstandard2.0\OpenClosedLibrary.AssemblyInfo.cs
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedLibrary\obj\Debug\netstandard2.0\OpenClosedLibrary.csproj.CoreCompileInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedLibrary\obj\Debug\netstandard2.0\OpenClosedLibrary.dll
+D:\Bhaskar shelar\SOLID Pricinple\New Project\OpenClosedPrinciple\OpenClosedLibrary\obj\Debug\netstandard2.0\OpenClosedLibrary.pdb
