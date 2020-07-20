@@ -1,0 +1,9 @@
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPLibrary\bin\Debug\netcoreapp3.1\LSPLibrary.deps.json
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPLibrary\bin\Debug\netcoreapp3.1\LSPLibrary.dll
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPLibrary\bin\Debug\netcoreapp3.1\LSPLibrary.pdb
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPLibrary\obj\Debug\netcoreapp3.1\LSPLibrary.csprojAssemblyReference.cache
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPLibrary\obj\Debug\netcoreapp3.1\LSPLibrary.AssemblyInfoInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPLibrary\obj\Debug\netcoreapp3.1\LSPLibrary.AssemblyInfo.cs
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPLibrary\obj\Debug\netcoreapp3.1\LSPLibrary.csproj.CoreCompileInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPLibrary\obj\Debug\netcoreapp3.1\LSPLibrary.dll
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPLibrary\obj\Debug\netcoreapp3.1\LSPLibrary.pdb

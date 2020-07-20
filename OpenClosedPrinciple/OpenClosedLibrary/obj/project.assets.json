@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bhaskar shelar\\SOLID Pricinple\\New Project\\OpenClosedPrinciple\\OpenClosedLibrary\\OpenClosedLibrary.csproj",
+      "projectUniqueName": "D:\\Bhaskar shelar\\SOLID Pricinple\\GitHub Repo\\SolidRepo\\OpenClosedPrinciple\\OpenClosedLibrary\\OpenClosedLibrary.csproj",
       "projectName": "OpenClosedLibrary",
-      "projectPath": "D:\\Bhaskar shelar\\SOLID Pricinple\\New Project\\OpenClosedPrinciple\\OpenClosedLibrary\\OpenClosedLibrary.csproj",
+      "projectPath": "D:\\Bhaskar shelar\\SOLID Pricinple\\GitHub Repo\\SolidRepo\\OpenClosedPrinciple\\OpenClosedLibrary\\OpenClosedLibrary.csproj",
       "packagesPath": "C:\\Users\\bhaskar.shelar\\.nuget\\packages\\",
-      "outputPath": "D:\\Bhaskar shelar\\SOLID Pricinple\\New Project\\OpenClosedPrinciple\\OpenClosedLibrary\\obj\\",
+      "outputPath": "D:\\Bhaskar shelar\\SOLID Pricinple\\GitHub Repo\\SolidRepo\\OpenClosedPrinciple\\OpenClosedLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

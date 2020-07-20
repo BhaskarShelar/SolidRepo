@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LSPConsole/1.0.0": {
+        "dependencies": {
+          "LSPLibrary": "1.0.0"
+        },
+        "runtime": {
+          "LSPConsole.dll": {}
+        }
+      },
+      "LSPLibrary/1.0.0": {
+        "runtime": {
+          "LSPLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LSPConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LSPLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

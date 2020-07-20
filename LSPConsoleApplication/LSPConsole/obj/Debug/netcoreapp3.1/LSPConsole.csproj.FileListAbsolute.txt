@@ -1,0 +1,16 @@
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPConsole\bin\Debug\netcoreapp3.1\LSPConsole.exe
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPConsole\bin\Debug\netcoreapp3.1\LSPConsole.deps.json
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPConsole\bin\Debug\netcoreapp3.1\LSPConsole.runtimeconfig.json
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPConsole\bin\Debug\netcoreapp3.1\LSPConsole.runtimeconfig.dev.json
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPConsole\bin\Debug\netcoreapp3.1\LSPConsole.dll
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPConsole\bin\Debug\netcoreapp3.1\LSPConsole.pdb
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPConsole\bin\Debug\netcoreapp3.1\LSPLibrary.dll
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPConsole\bin\Debug\netcoreapp3.1\LSPLibrary.pdb
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPConsole\obj\Debug\netcoreapp3.1\LSPConsole.csprojAssemblyReference.cache
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPConsole\obj\Debug\netcoreapp3.1\LSPConsole.AssemblyInfoInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPConsole\obj\Debug\netcoreapp3.1\LSPConsole.AssemblyInfo.cs
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPConsole\obj\Debug\netcoreapp3.1\LSPConsole.csproj.CoreCompileInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPConsole\obj\Debug\netcoreapp3.1\LSPConsole.csproj.CopyComplete
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPConsole\obj\Debug\netcoreapp3.1\LSPConsole.dll
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPConsole\obj\Debug\netcoreapp3.1\LSPConsole.pdb
+D:\Bhaskar shelar\SOLID Pricinple\LSPConsoleApplication\LSPConsole\obj\Debug\netcoreapp3.1\LSPConsole.genruntimeconfig.cache

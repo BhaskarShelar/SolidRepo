@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSPConsole", "LSPConsole\LSPConsole.csproj", "{5169B7AD-6E0E-4213-98F1-E7DBEBC21F23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSPLibrary", "LSPLibrary\LSPLibrary.csproj", "{07473894-B3A3-47E1-BE37-84B9839907D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5169B7AD-6E0E-4213-98F1-E7DBEBC21F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5169B7AD-6E0E-4213-98F1-E7DBEBC21F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5169B7AD-6E0E-4213-98F1-E7DBEBC21F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5169B7AD-6E0E-4213-98F1-E7DBEBC21F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07473894-B3A3-47E1-BE37-84B9839907D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07473894-B3A3-47E1-BE37-84B9839907D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07473894-B3A3-47E1-BE37-84B9839907D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07473894-B3A3-47E1-BE37-84B9839907D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {397998F6-D782-4267-8CC9-1C21AE649FE8}
+	EndGlobalSection
+EndGlobal

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KW4tGC/4xQbhBJBY8zM0cHuPYJYwlwgjri6h8G3+WhGygLd7gm2/3nlbL++CelXS6HP2IqgyCxrettHKMvERHQ==",
+  "dgSpecHash": "rOoKHTuAfWIFiKlmCxdXvWSfWDvZSBPbns4yW06i+IBbNpt+jFTixgaVuxaILjqOIdV6O8AKSM5WOjJ2QbhJzQ==",
   "success": true,
-  "projectFilePath": "D:\\Bhaskar shelar\\SOLID Pricinple\\New Project\\OpenClosedPrinciple\\OpenClosedLibrary\\OpenClosedLibrary.csproj",
+  "projectFilePath": "D:\\Bhaskar shelar\\SOLID Pricinple\\GitHub Repo\\SolidRepo\\OpenClosedPrinciple\\OpenClosedLibrary\\OpenClosedLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
