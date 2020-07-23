@@ -1,0 +1,8 @@
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleLibraary\bin\Debug\netstandard2.0\ConsoleLibraary.deps.json
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleLibraary\bin\Debug\netstandard2.0\ConsoleLibraary.dll
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleLibraary\bin\Debug\netstandard2.0\ConsoleLibraary.pdb
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleLibraary\obj\Debug\netstandard2.0\ConsoleLibraary.AssemblyInfoInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleLibraary\obj\Debug\netstandard2.0\ConsoleLibraary.AssemblyInfo.cs
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleLibraary\obj\Debug\netstandard2.0\ConsoleLibraary.csproj.CoreCompileInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleLibraary\obj\Debug\netstandard2.0\ConsoleLibraary.dll
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleLibraary\obj\Debug\netstandard2.0\ConsoleLibraary.pdb

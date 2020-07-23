@@ -1,0 +1,16 @@
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleLibraary.dll
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleLibraary.pdb
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+D:\Bhaskar shelar\SOLID Pricinple\InterfaceSegerationPrinciple\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
