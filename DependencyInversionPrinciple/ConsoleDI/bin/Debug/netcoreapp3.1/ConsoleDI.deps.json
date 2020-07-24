@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleDI/1.0.0": {
+        "dependencies": {
+          "DILibrary": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleDI.dll": {}
+        }
+      },
+      "DILibrary/1.0.0": {
+        "runtime": {
+          "DILibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleDI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DILibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

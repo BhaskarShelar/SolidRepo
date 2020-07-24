@@ -1,0 +1,32 @@
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\ConsoleDI\bin\Debug\netcoreapp3.1\ConsoleDI.exe
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\ConsoleDI\bin\Debug\netcoreapp3.1\ConsoleDI.deps.json
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\ConsoleDI\bin\Debug\netcoreapp3.1\ConsoleDI.runtimeconfig.json
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\ConsoleDI\bin\Debug\netcoreapp3.1\ConsoleDI.runtimeconfig.dev.json
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\ConsoleDI\bin\Debug\netcoreapp3.1\ConsoleDI.dll
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\ConsoleDI\bin\Debug\netcoreapp3.1\ConsoleDI.pdb
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\ConsoleDI\bin\Debug\netcoreapp3.1\DILibrary.dll
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\ConsoleDI\bin\Debug\netcoreapp3.1\DILibrary.pdb
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\ConsoleDI\obj\Debug\netcoreapp3.1\ConsoleDI.csprojAssemblyReference.cache
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\ConsoleDI\obj\Debug\netcoreapp3.1\ConsoleDI.AssemblyInfoInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\ConsoleDI\obj\Debug\netcoreapp3.1\ConsoleDI.AssemblyInfo.cs
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\ConsoleDI\obj\Debug\netcoreapp3.1\ConsoleDI.csproj.CoreCompileInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\ConsoleDI\obj\Debug\netcoreapp3.1\ConsoleDI.csproj.CopyComplete
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\ConsoleDI\obj\Debug\netcoreapp3.1\ConsoleDI.dll
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\ConsoleDI\obj\Debug\netcoreapp3.1\ConsoleDI.pdb
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\ConsoleDI\obj\Debug\netcoreapp3.1\ConsoleDI.genruntimeconfig.cache
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\ConsoleDI\bin\Debug\netcoreapp3.1\ConsoleDI.exe
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\ConsoleDI\bin\Debug\netcoreapp3.1\ConsoleDI.deps.json
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\ConsoleDI\bin\Debug\netcoreapp3.1\ConsoleDI.runtimeconfig.json
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\ConsoleDI\bin\Debug\netcoreapp3.1\ConsoleDI.runtimeconfig.dev.json
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\ConsoleDI\bin\Debug\netcoreapp3.1\ConsoleDI.dll
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\ConsoleDI\bin\Debug\netcoreapp3.1\ConsoleDI.pdb
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\ConsoleDI\bin\Debug\netcoreapp3.1\DILibrary.dll
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\ConsoleDI\bin\Debug\netcoreapp3.1\DILibrary.pdb
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\ConsoleDI\obj\Debug\netcoreapp3.1\ConsoleDI.csprojAssemblyReference.cache
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\ConsoleDI\obj\Debug\netcoreapp3.1\ConsoleDI.AssemblyInfoInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\ConsoleDI\obj\Debug\netcoreapp3.1\ConsoleDI.AssemblyInfo.cs
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\ConsoleDI\obj\Debug\netcoreapp3.1\ConsoleDI.csproj.CoreCompileInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\ConsoleDI\obj\Debug\netcoreapp3.1\ConsoleDI.csproj.CopyComplete
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\ConsoleDI\obj\Debug\netcoreapp3.1\ConsoleDI.dll
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\ConsoleDI\obj\Debug\netcoreapp3.1\ConsoleDI.pdb
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\ConsoleDI\obj\Debug\netcoreapp3.1\ConsoleDI.genruntimeconfig.cache

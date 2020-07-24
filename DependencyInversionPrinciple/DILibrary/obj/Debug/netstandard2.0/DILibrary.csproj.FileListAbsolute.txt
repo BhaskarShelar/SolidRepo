@@ -1,0 +1,18 @@
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\DILibrary\bin\Debug\netstandard2.0\DILibrary.deps.json
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\DILibrary\bin\Debug\netstandard2.0\DILibrary.dll
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\DILibrary\bin\Debug\netstandard2.0\DILibrary.pdb
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\DILibrary\obj\Debug\netstandard2.0\DILibrary.csprojAssemblyReference.cache
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\DILibrary\obj\Debug\netstandard2.0\DILibrary.AssemblyInfoInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\DILibrary\obj\Debug\netstandard2.0\DILibrary.AssemblyInfo.cs
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\DILibrary\obj\Debug\netstandard2.0\DILibrary.csproj.CoreCompileInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\DILibrary\obj\Debug\netstandard2.0\DILibrary.dll
+D:\Bhaskar shelar\SOLID Pricinple\DependencyInversionPrinciple\DILibrary\obj\Debug\netstandard2.0\DILibrary.pdb
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\DILibrary\bin\Debug\netstandard2.0\DILibrary.deps.json
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\DILibrary\bin\Debug\netstandard2.0\DILibrary.dll
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\DILibrary\bin\Debug\netstandard2.0\DILibrary.pdb
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\DILibrary\obj\Debug\netstandard2.0\DILibrary.csprojAssemblyReference.cache
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\DILibrary\obj\Debug\netstandard2.0\DILibrary.AssemblyInfoInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\DILibrary\obj\Debug\netstandard2.0\DILibrary.AssemblyInfo.cs
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\DILibrary\obj\Debug\netstandard2.0\DILibrary.csproj.CoreCompileInputs.cache
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\DILibrary\obj\Debug\netstandard2.0\DILibrary.dll
+D:\Bhaskar shelar\SOLID Pricinple\GitHub Repo\DependencyInversionPrinciple\DILibrary\obj\Debug\netstandard2.0\DILibrary.pdb
